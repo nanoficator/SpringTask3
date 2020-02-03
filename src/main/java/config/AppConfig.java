@@ -1,11 +1,9 @@
 package config;
 
-import com.sun.corba.se.impl.ior.NewObjectKeyTemplateBase;
 import deth.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import sun.font.CreatedFontTracker;
 
 @Configuration
 @ComponentScan
